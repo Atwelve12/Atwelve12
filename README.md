@@ -40,3 +40,5 @@ Here are some ideas to get you started:
  
  我的[b站](https://space.bilibili.com/473337749 "哔哩哔哩")🦜
 ****
+[![Email](https://img.shields.io/badge/Email-联系我-D14836?style=flat&logo=gmail&logoColor=white)](mailto:你的邮箱)
+[![Blog](https://img.shields.io/badge/Blog-个人博客-FF5722?style=flat&logo=blogger&logoColor=white)](你的博客链接)
