@@ -32,6 +32,8 @@
 
 *[夜鹿官网](https://yorushika.com/)*
 
+*[我尝试做的夜鹿网页](https://atwelve12.github.io/Yorushika.github.io/)*
+
 他们的风格自成一派,歌中包含着夏日,微风,告别与重逢.
 
 [歌中夏日🌻](https://music.163.com/#/song?id=487527981 "あの夏に咲け/在那个夏天绽放吧")
